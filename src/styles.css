@@ -1,0 +1,19 @@
+.tab {
+  cursor: pointer;
+}
+
+button:hover {
+  color: rgb(66, 66, 123);
+}
+
+.tab-active {
+  color: blue;
+}
+
+.tab-container-active {
+  display: block !important;
+}
+
+.tab-container {
+  display: none;
+}
